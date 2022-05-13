@@ -4,12 +4,18 @@ This is a Meal app created using HTML, CSS and Vanilla JavaScript, We can start,
 This meal app is already hosted using github on  https://djsharmaaa.github.io/Meal-app/.
 
 We can perform following functions-
-Search and see all the recipes using search bar.
-Can see the the description of recipe and its instruction and ingredients.
-User can add meals to favorite list
+
+-Search and see all the recipes using search bar.
+
+-Can see the the description of recipe and its instruction and ingredients.
+
+-User can add meals to favorite list
+
 
 
 Features-
-Recipe Ingredients  
-Recipe youtube video links 
-Sorted content
+
+-Recipe Ingredients 
+
+-Recipe youtube video links 
+
